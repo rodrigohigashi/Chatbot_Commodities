@@ -159,9 +159,9 @@ def candlestick_chart(commodity, period='1mo'):
     except Exception as e:
         if 'rate limit' in str(e).lower():
             return "Rate limit reached for the financial data API. Please try again later."
-        import traceback
-        traceback.print_exc()
-        return f"Error generating chart: {type(e).__name__} - {e}"
+    import traceback
+    traceback.print_exc()
+    return f"Error generating chart: {type(e).__name__} - {e}"
 
 ##############################################################################################
 
@@ -271,4 +271,4 @@ if __name__ == '__main__':
 
         # Check if the last message is from the assistant and print it
         if messages and messages[-1].role == 'assistant' and hasattr(messages[-1], 'content'):
-            print(f"Assistant: {messages[-1]['content']}")
+            print(f"Assistant: {messages[-1].content}")
