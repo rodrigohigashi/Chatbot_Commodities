@@ -81,6 +81,11 @@ python ChatbotCommodities_PT.py
 
 ---
 
+## 🎥 Demonstração em vídeo
+Confira um vídeo demonstrando a interação com o chatbot, suas consultas e gráficos dinâmicos:
+
+Assista ao vídeo no Loom: https://www.loom.com/share/7cd45011502b427cbecf339aea972d93
+
 ## ✨ Observações
 
 - O petróleo está nomeado como "petróleo" em português e retornado com o ticker `CL=F` do Yahoo Finance, que representa o crude oil (petróleo bruto). Isso evita confusão entre óleo genérico e petróleo.
