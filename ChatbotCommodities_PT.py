@@ -159,6 +159,7 @@ def grafico_candlestick(commodity, periodo='1mo'):
         return f"Gráfico de {commodity} no período {periodo_legivel} exibido com sucesso.\n{anotacao}{alerta_texto}"
 
     except Exception as e:
+        print(f"[DEBUG] Erro capturado: {e}")
         if 'rate limit' in str(e).lower():
             return "Limite de requisições atingido na API de dados financeiros. Tente novamente mais tarde."
     import traceback
