@@ -87,6 +87,11 @@ python ChatbotCommodities_PT.py
 - Ajustes específicos são feitos para commodities cujo preço no Yahoo Finance está em centavos (ex: soja).
 
 ---
+## 📽️ Video Demo
+
+Watch a short walkthrough of the project: 
+➡️ [Click here to view on Loom](https://www.loom.com/share/7cd45011502b427cbecf339aea972d93))
+
 
 ## 📝 Licença
 
