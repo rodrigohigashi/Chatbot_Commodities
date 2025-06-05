@@ -9,4 +9,4 @@ This repository contains two versions of the same AI project: one in **Portugues
 
 ---
 
-🔗 Author: [linkedin.com/in/rodrigohigashi/] | [Medium]
+🔗 Author: [linkedin.com/in/rodrigohigashi/] | [medium.com/@rockigo]
