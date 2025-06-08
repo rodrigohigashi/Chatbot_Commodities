@@ -88,6 +88,11 @@ python ChatbotCommodities_EN.py
 
 ---
 
+📽️ Video Demo
+Watch a short walkthrough of the project: ➡️ [Click here to view on Loom](https://www.loom.com/share/0e6dd9371bf14e389564a0dec3183144)
+
+---
+
 ## 📝 License
 
 This project is open and adaptable as needed.
